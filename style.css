@@ -1,10 +1,10 @@
 body{
 
-    background-color: aqua;
+    background-color: rgb(17, 50, 142);
 
 }
 
 .p{font-size: 50px;}
 
 
-.pp{ background-color: blue;}
+.pp{ background-color: rgb(0, 0, 0); width:60px; }
