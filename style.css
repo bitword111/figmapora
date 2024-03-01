@@ -7,7 +7,7 @@ body{
 .p{font-size: 50px; padding-left: 5px;}
 
 
-.pp{ background-color: rgb(98, 6, 6); width: 100px; }
+.pp{ background-color: rgb(98, 6, 6);  }
 
 .v{padding-left: 1500px; font-size: 25px; padding-bottom:50mm ; }
 
@@ -18,3 +18,8 @@ body{
 .legivel{color: white; text-align: center;}
 
 .imgcentralizada{text-align: center;}
+
+*{
+padding: 0px;
+
+}
