@@ -34,6 +34,8 @@ padding: 0px;
 .faixa ul li {
     list-style-type: none;
     padding-right: 14px;
+
+    margin: ;
 }
 
-.img{padding-left: 100px}
+.img{margin: o 16px; display: inline-block;}
