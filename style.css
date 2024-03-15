@@ -26,3 +26,12 @@ padding: 0px;
 }
 
 .imgencinhas{width: 100px ; height: 100px;}
+
+.faixa ul {
+    display: flex;
+}
+
+.faixa ul li {
+    list-style-type: none;
+    padding-right: 14px;
+}
