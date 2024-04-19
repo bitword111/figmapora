@@ -7,7 +7,15 @@ body{
 .p{font-size: 100px; padding-left: 5px; color: white;}
 
 
-.pp{ background-color: rgb(98, 6, 6);  }
+.pp {
+    background-color: #660505;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+ 
 
 .v{padding-left: 1000px; font-size: 25px; padding-bottom:50mm ; }
 
